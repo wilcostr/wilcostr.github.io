@@ -2,26 +2,37 @@
   { 
     "image": "https://firebasestorage.googleapis.com/v0/b/a9letterjumble.firebasestorage.app/o/FutureLife%20320x100.png?alt=media&token=ee65e931-20bc-4963-87e8-9b6d70965768",
     "click": "https://i.refs.cc/RiD84oAq",
-    "pixel": ""    
+    "pixel": "",
+    "description": "FutureLife"
   },
   {
     "image": "https://de9u7ofrs9wvh.cloudfront.net/312898/netflorist_468x120.jpg",
     "click": "https://of0101.com/?E=10P%2fN%2fR3875CstzdDfRgOgzGafMcVi%2bSGaxqM29974A%3d&s1=",
-    "pixel": "https://of0101.com/i.ashx?E=ns9qRMx4V60wi50NFI8amtIocnGd0eMG&s1="
+    "pixel": "https://of0101.com/i.ashx?E=ns9qRMx4V60wi50NFI8amtIocnGd0eMG&s1=",
+    "description": "Netflorist Flowers"
+  },
+  {
+    "image": "http://afrihost.com/banners/rf_adslu_1_300x100.gif",
+    "click": "https://clientzone.afrihost.com/refer/twinc-apps",
+    "pixel": "",
+    "description": "Afrihost"
   },
   {
     "image": "https://de9u7ofrs9wvh.cloudfront.net/332457/Generic_234x60.gif",
     "click": "https://foffers.co.za/?E=10P%2fN%2fR3877a0ayeXVUlSYmy1dX5ggB%2b&s1=",
-    "pixel": "https://foffers.co.za/i.ashx?E=HlvzMyP7%2f43RIgApbeqLLJkLcZVhcBYK&s1="
+    "pixel": "https://foffers.co.za/i.ashx?E=HlvzMyP7%2f43RIgApbeqLLJkLcZVhcBYK&s1=",
+    "description": "Mondo Mobile"
   },
   {
     "image": "https://de9u7ofrs9wvh.cloudfront.net/330195/320x50-Deli.jpg",
     "click": "https://of0101.com/?E=10P%2fN%2fR3874R3HOUlmYpjwzGafMcVi%2bSGaxqM29974A%3d&s1=",
-    "pixel": "https://of0101.com/i.ashx?E=QPvk9rP6NBlRXwK3AdDL6w%2bQIRfGZw6XGaxqM29974A%3d&s1="
+    "pixel": "https://of0101.com/i.ashx?E=QPvk9rP6NBlRXwK3AdDL6w%2bQIRfGZw6XGaxqM29974A%3d&s1=",
+    "description": "Netflorist Deli"
   },
   {
     "image": "https://de9u7ofrs9wvh.cloudfront.net/332898/320x50.png",
     "click": "https://of0101.com/?E=vZI97KCN4L8jPjHFQ8FfdIiy4EHSUY60&s1=",
-    "pixel": "https://of0101.com/i.ashx?E=vZI97KCN4L8jPjHFQ8FfdIiy4EHSUY60&s1="
+    "pixel": "https://of0101.com/i.ashx?E=vZI97KCN4L8jPjHFQ8FfdIiy4EHSUY60&s1=",
+    "description": "Leigh Avenue"
   }
 ]
