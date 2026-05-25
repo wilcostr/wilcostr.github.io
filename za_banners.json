@@ -1,15 +1,9 @@
 [
-  { 
-    "image": "https://firebasestorage.googleapis.com/v0/b/a9letterjumble.firebasestorage.app/o/FutureLife%20320x100.png?alt=media&token=ee65e931-20bc-4963-87e8-9b6d70965768",
-    "click": "https://i.refs.cc/RiD84oAq",
-    "pixel": "",
-    "description": "FutureLife"
-  },
   {
-    "image": "https://de9u7ofrs9wvh.cloudfront.net/312898/netflorist_468x120.jpg",
-    "click": "https://of0101.com/?E=10P%2fN%2fR3875CstzdDfRgOgzGafMcVi%2bSGaxqM29974A%3d&s1=",
-    "pixel": "https://of0101.com/i.ashx?E=ns9qRMx4V60wi50NFI8amtIocnGd0eMG&s1=",
-    "description": "Netflorist Flowers"
+    "image": "http://de9u7ofrs9wvh.cloudfront.net/316179/468x120.jpg",
+    "click": "https://of0101.com/?E=uovRGrPFkW%2fc4squMSytORPSDyvdtIHLGaxqM29974A%3d&s1=",
+    "pixel": "https://of0101.com/i.ashx?E=vZI97KCN4L%2fGkkRQEtY8NYiy4EHSUY60&s1=",
+    "description": "Netflorist for Her"
   },
   {
     "image": "https://firebasestorage.googleapis.com/v0/b/a9letterjumble.firebasestorage.app/o/Webafrica-banner.png?alt=media&token=1d006d88-8a70-4372-bb93-e30984bb4c91",
@@ -23,6 +17,18 @@
     "pixel": "",
     "description": "EasyEquities"
   },
+  { 
+    "image": "https://firebasestorage.googleapis.com/v0/b/a9letterjumble.firebasestorage.app/o/FutureLife%20320x100.png?alt=media&token=ee65e931-20bc-4963-87e8-9b6d70965768",
+    "click": "https://i.refs.cc/RiD84oAq",
+    "pixel": "",
+    "description": "FutureLife"
+  },
+  {
+    "image": "https://de9u7ofrs9wvh.cloudfront.net/312898/netflorist_468x120.jpg",
+    "click": "https://of0101.com/?E=10P%2fN%2fR3875CstzdDfRgOgzGafMcVi%2bSGaxqM29974A%3d&s1=",
+    "pixel": "https://of0101.com/i.ashx?E=ns9qRMx4V60wi50NFI8amtIocnGd0eMG&s1=",
+    "description": "Netflorist Flowers"
+  },
   {
     "image": "https://de9u7ofrs9wvh.cloudfront.net/332457/Generic_234x60.gif",
     "click": "https://foffers.co.za/?E=10P%2fN%2fR3877a0ayeXVUlSYmy1dX5ggB%2b&s1=",
@@ -34,12 +40,6 @@
     "click": "https://www.admyt.com/signup/WIL45917",
     "pixel": "",
     "description": "Admyt"
-  },
-  {
-    "image": "https://de9u7ofrs9wvh.cloudfront.net/330195/320x50-Deli.jpg",
-    "click": "https://of0101.com/?E=10P%2fN%2fR3874R3HOUlmYpjwzGafMcVi%2bSGaxqM29974A%3d&s1=",
-    "pixel": "https://of0101.com/i.ashx?E=QPvk9rP6NBlRXwK3AdDL6w%2bQIRfGZw6XGaxqM29974A%3d&s1=",
-    "description": "Netflorist Deli"
   },
   {
     "image": "https://de9u7ofrs9wvh.cloudfront.net/332898/320x50.png",
